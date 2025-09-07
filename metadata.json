@@ -1,12 +1,12 @@
 [
-{"description": "x500",                                              "hash": "11f470c8206d4ca43bf3f7e1ba1d7acc456d3c34",
-{"description": "x500-smart-low-poly",                               "hash": "9602ffc2ffb77f62c4cf6fdc78fe67d32088870d",
-{"description": "race",                                              "hash": "2a6618eb7e0d46226bb46df3b4ddc64432eaf3da",
-{"description": "race-smart-low-poly",                               "hash": "775ba8559aeed800dbcdab93806601e39d84fede",
-{"description": "crazyflie",                                         "hash": "4be1c223bb268e35163f98daa675a60a6b2876c2",
-{"description": "crazyflie-low-poly",                                "hash": "8bfd7b63ee95b82e45978ab2959542a034749212",
-{"description": "crazyflie-lowest-poly",                             "hash": "95d22881d444145176db6027d44ebd3a15e9699a",
-{"description": "crazyflie-smart-low-poly",                          "hash": "b75f5120e17783744a8fac5e1ab69c2dce10f0e3",
-{"description": "crazyflie-brushless",                               "hash": "8a5407589341fbe58620eeb036598418e06ab6e5",
-{"description": "crazyflie-brushless-smart-low-poly",                "hash": "ba8d50c476febc9247f5af92e5116fb170110c60"
+{"description": "x500",                                              "hash": "11f470c8206d4ca43bf3f7e1ba1d7acc456d3c34"},
+{"description": "x500-smart-low-poly",                               "hash": "9602ffc2ffb77f62c4cf6fdc78fe67d32088870d"},
+{"description": "race",                                              "hash": "2a6618eb7e0d46226bb46df3b4ddc64432eaf3da"},
+{"description": "race-smart-low-poly",                               "hash": "775ba8559aeed800dbcdab93806601e39d84fede"},
+{"description": "crazyflie",                                         "hash": "4be1c223bb268e35163f98daa675a60a6b2876c2"},
+{"description": "crazyflie-low-poly",                                "hash": "8bfd7b63ee95b82e45978ab2959542a034749212"},
+{"description": "crazyflie-lowest-poly",                             "hash": "95d22881d444145176db6027d44ebd3a15e9699a"},
+{"description": "crazyflie-smart-low-poly",                          "hash": "b75f5120e17783744a8fac5e1ab69c2dce10f0e3"},
+{"description": "crazyflie-brushless",                               "hash": "8a5407589341fbe58620eeb036598418e06ab6e5"},
+{"description": "crazyflie-brushless-smart-low-poly",                "hash": "ba8d50c476febc9247f5af92e5116fb170110c60"}
 ]
